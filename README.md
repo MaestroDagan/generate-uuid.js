@@ -1,4 +1,4 @@
-# generate-uuid
+# generate-uuid.js
 
 ## About
 
