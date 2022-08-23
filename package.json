@@ -1,0 +1,26 @@
+{
+  "name": "generate-uuid",
+  "version": "0.0.1",
+  "description": "This is a npm package that can generate a v4 uuid through 1 simple function.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaestroDagan/generate-uuid.git"
+  },
+  "keywords": [
+    "generate",
+    "generator",
+    "uuid",
+    "id",
+    "v4"
+  ],
+  "author": "Dagan Roosenmaallen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaestroDagan/generate-uuid/issues"
+  },
+  "homepage": "https://github.com/MaestroDagan/generate-uuid#readme"
+}
