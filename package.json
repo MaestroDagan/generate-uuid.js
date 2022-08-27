@@ -1,6 +1,6 @@
 {
   "name": "generate-uuid.js",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "This is a npm package that can generate a v4 uuid through 1 simple function.",
   "main": "src/index.js",
   "scripts": {
