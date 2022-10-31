@@ -1,4 +1,8 @@
-# generate-uuid.js
+# generate-uuid.js [DEPRECATED]
+
+## IMPORTANT
+
+This package contains a lot of bugs and is not being maintained anymore!
 
 ## About
 
